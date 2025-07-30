@@ -1,4 +1,4 @@
-# Foundations of Programming course in IST
+# Foundations of Programming course at IST
 
 Grades:
 
