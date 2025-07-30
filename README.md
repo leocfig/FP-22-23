@@ -1,6 +1,4 @@
-# FP-22-23
-Foundations of Programming course in IST
-
+# Foundations of Programming course in IST
 
 Grades:
 
